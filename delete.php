@@ -9,8 +9,6 @@
 
 </head>
 <body>
-    
-
 <?php
 include "./connector.php";
 
